@@ -12,12 +12,13 @@ If you are a Windows 8/10, Unix/Linux or a OSX user, it can also run on [Electro
 
 ## Installation
 
-Unzip here :
+1. [Download sources](https://github.com/maxpou/podoro-ninja.gadget/archive/master.zip)
+2. Unzip here :
+  * Windows Vista : c:\Program Files\Windows Sidebar\Gadgets
+  * Windows 7 : Unzip all files in C:\Users\<username>\AppData\Local\Microsoft\Windows Sidebar\Gadgets
+3. On desktop, right clic > Gadget > Select **Pomodoro Ninja**
 
-* Windows Vista : c:\Program Files\Windows Sidebar\Gadgets
-* Windows 7 : Unzip all files in C:\Users\<username>\AppData\Local\Microsoft\Windows Sidebar\Gadgets
-
-*Note: All widgets folders must have **.widget** extension.*
+*Note: All widgets folders must have .gadget extension.*
 
 :+1:: right clic > always visible
 
