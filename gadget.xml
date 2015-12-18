@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<gadget>
+  <name>Pomodoro Ninja</name>
+  <namespace>Maxpou</namespace>
+  <version>0.1</version>
+  <author name="Maxence POUTORD">
+    <info url="www.maxpou.fr"/>
+  </author>
+  <copyright>2015</copyright>
+  <description>Simple widget for Pomodoro technique (Windows gadget)</description>
+  <icons>
+    <icon height="48" src="logo.png" width="48"/>
+  </icons>
+  <hosts>
+    <host name="sidebar">
+      <base apiVersion="1.0.0" src="index.html" type="HTML"/>
+      <permissions>Full</permissions>
+      <platform minPlatformVersion="0.3"/>
+    </host>
+  </hosts>
+  <version MinPlatformVersion="0.1" value="1.0.0.0"/>
+</gadget>
